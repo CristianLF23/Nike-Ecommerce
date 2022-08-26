@@ -54,7 +54,7 @@ const products = [
     id: 4,
     title: "Crater",
     price: 900,
-    desc: "Fizemos escolhas de design únicas que, em comparação com métodos tradicionais, reduzem o desperdício: Swoosh bordado, sobreposições eficientes e entressola em espuma Crater.",
+    desc: "Fizemos escolhas de design únicas, em comparação com métodos tradicionais, reduzem o desperdício: Swoosh bordado, sobreposições eficientes e entressola em espuma Crater.",
     colors: [
       {
         code: "black",
