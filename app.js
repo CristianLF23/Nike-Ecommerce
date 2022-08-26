@@ -6,6 +6,7 @@ const products = [
     id: 1,
     title: "Air Force",
     price: 800,
+    desc: "O brilho perdura no Nike Air Force 1 '07, o tênis original do basquete que dá um toque de inovação naquilo que você conhece bem: sobreposições costuradas e duráveis, acabamentos simples e a quantidade perfeita de brilho para fazer você se destacar.",
     colors: [
       {
         code: "black",
@@ -53,7 +54,7 @@ const products = [
     id: 4,
     title: "Crater",
     price: 900,
-    desc: "O Nike Crater Impact faz parte da nossa jornada pela sustentabilidade, que inclui transformar materiais descartados em tênis mais leves. Fizemos escolhas de design únicas que, em comparação com métodos tradicionais, reduzem o desperdício: Swoosh bordado, sobreposições eficientes e entressola em espuma Crater.",
+    desc: "Fizemos escolhas de design únicas que, em comparação com métodos tradicionais, reduzem o desperdício: Swoosh bordado, sobreposições eficientes e entressola em espuma Crater.",
     colors: [
       {
         code: "black",
